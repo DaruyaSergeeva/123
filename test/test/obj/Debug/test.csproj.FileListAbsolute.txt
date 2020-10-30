@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\bin\Debug\test.exe.config
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\bin\Debug\test.exe
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\bin\Debug\test.pdb
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\obj\Debug\test.exe
+C:\Users\Acer\Desktop\Курсы\123\123\test\test\obj\Debug\test.pdb
